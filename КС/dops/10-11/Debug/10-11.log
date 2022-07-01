@@ -1,0 +1,8 @@
+﻿  10-11.cpp
+C:\Study\KSIS\10-11\10-11.cpp(145,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Study\KSIS\10-11\10-11.cpp(206,3): warning C4091: typedef : пропускается слева от "main::hostent", когда ни одна переменная не объявлена
+C:\Study\KSIS\10-11\10-11.cpp(206,18): warning C4101: PHOSTENT: неиспользованная локальная переменная
+C:\Study\KSIS\10-11\10-11.cpp(206,13): warning C4101: a: неиспользованная локальная переменная
+C:\Study\KSIS\10-11\10-11.cpp(206,33): warning C4101: LPHOSTENT: неиспользованная локальная переменная
+C:\Study\KSIS\10-11\10-11.cpp(149,18): warning C4101: netbios: неиспользованная локальная переменная
+  10-11.vcxproj -> C:\Study\KSIS\10-11\Debug\10-11.exe

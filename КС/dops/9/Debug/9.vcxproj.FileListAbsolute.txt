@@ -1,0 +1,4 @@
+C:\Study\KSIS\9\Debug\9.exe
+C:\Study\KSIS\9\Debug\9.pdb
+C:\3_sem\Сессия\КС\dops\9\Debug\9.exe
+C:\3_sem\Сессия\КС\dops\9\Debug\9.pdb

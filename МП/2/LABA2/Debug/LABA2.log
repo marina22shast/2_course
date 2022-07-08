@@ -1,0 +1,9 @@
+﻿  Combi1.cpp
+D:\4_sem\МП\2\LABA2\Combi1.cpp(33,48): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  Combi2.cpp
+  Combi3.cpp
+  Combi4.cpp
+  Knapsack.cpp
+  Main.cpp
+  Создание кода...
+  LABA2.vcxproj -> D:\4_sem\МП\2\Debug\LABA2.exe
